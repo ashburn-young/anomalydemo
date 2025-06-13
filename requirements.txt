@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+azure-storage-blob>=12.0.0
+azure-identity>=1.12.0
+openai==0.28.1
+plotly
+scikit-learn
+openpyxl
+matplotlib
+seaborn
+python-dotenv
