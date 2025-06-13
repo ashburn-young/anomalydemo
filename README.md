@@ -37,7 +37,7 @@ This solution provides:
 
 3. Configure environment variables in `.env`:
    ```
-   AZURE_OPENAI_ENDPOINT=https://oaimodels.openai.azure.com/
+   AZURE_OPENAI_ENDPOINT=https://your_azure_openai_resource.openai.azure.com/
    AZURE_OPENAI_API_KEY=your_api_key_here
    AZURE_OPENAI_DEPLOYMENT_NAME=gpt-4o
    AZURE_OPENAI_API_VERSION=2025-01-01-preview
